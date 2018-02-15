@@ -55,7 +55,7 @@
   if(get_field('link_or_email') == 'Link'){
     $button_link = get_field('button_url');
   } else {
-    $button_link = get_field('button_email');
+    $button_link = "mailto:".get_field('button_email');
   }
 ?>
 
