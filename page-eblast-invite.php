@@ -105,7 +105,7 @@
         "p.m.",
         "Jan.",
         "Feb.",
-        "Mar.",
+        "March",
         "April",
         "May",
         "June",
@@ -316,7 +316,7 @@
         line-height:24px;
         padding:13px 35px 12px;
         text-align:center;
-        text-decoration:none!important
+        text-decoration:none !important
       }
 
       .btn a:hover {
@@ -345,14 +345,14 @@
 
       @media only screen and (max-width: 620px) {
         .btn {
-          margin-bottom:24px!important
+          margin-bottom:24px !important
         }
 
         .btn a {
-          display:block!important;
-          font-size:14px!important;
-          line-height:24px!important;
-          padding:13px 10px 12px!important
+          display:block !important;
+          font-size:14px !important;
+          line-height:24px !important;
+          padding:13px 10px 12px !important
         }
       }
 
@@ -405,40 +405,40 @@
 
       @media only screen and (max-width: 620px) {
         [class=wrapper] {
-          min-width:318px!important;
-          width:100%!important
+          min-width:318px !important;
+          width:100% !important
         }
 
         [class=wrapper] .one-col,[class=wrapper] .two-col,[class=wrapper] .three-col {
-          width:318px!important
+          width:318px !important
         }
 
         [class=wrapper] .column,[class=wrapper] .gutter {
           display:block;
           float:left;
-          width:318px!important
+          width:318px !important
         }
 
         [class=wrapper] .padded {
-          padding-left:32px!important;
-          padding-right:32px!important
+          padding-left:32px !important;
+          padding-right:32px !important
         }
 
         [class=wrapper] .block {
-          display:block!important
+          display:block !important
         }
 
         [class=wrapper] .hide {
-          display:none!important
+          display:none !important
         }
 
         [class=wrapper] .image {
-          margin-bottom:24px!important
+          margin-bottom:24px !important
         }
 
         [class=wrapper] .image img {
-          height:auto!important;
-          width:100%!important
+          height:auto !important;
+          width:100% !important
         }
       }
 
@@ -728,7 +728,7 @@
 
       @media only screen and (max-width: 620px) {
         .one-col-feature {
-          width:318px!important
+          width:318px !important
         }
       }
 
@@ -823,7 +823,7 @@
       }
 
       .one-col-feature blockquote p:last-child,.one-col-feature blockquote ol:last-child,.one-col-feature blockquote ul:last-child {
-        margin-bottom:0!important
+        margin-bottom:0 !important
       }
 
       .footer {
@@ -855,7 +855,7 @@
 
       .social .social-text {
         height:21px;
-        vertical-align:middle!important;
+        vertical-align:middle !important;
         font-size:10px;
         font-weight:700;
         text-decoration:none;
@@ -902,64 +902,64 @@
 
       @media only screen and (max-width: 651px) {
         .gmail {
-          display:none!important
+          display:none !important
         }
       }
 
       @media only screen and (max-width: 620px) {
         [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td h1:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td h1:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td h1:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td h1:last-child,[class=wrapper] .one-col .column:last-child table:nth-last-child(2) td h2:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td h2:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td h2:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td h2:last-child,[class=wrapper] .one-col .column:last-child table:nth-last-child(2) td h3:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td h3:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td h3:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td h3:last-child,[class=wrapper] .one-col .column:last-child table:nth-last-child(2) td p:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td p:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td p:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td p:last-child,[class=wrapper] .one-col .column:last-child table:nth-last-child(2) td ol:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td ol:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td ol:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td ol:last-child,[class=wrapper] .one-col .column:last-child table:nth-last-child(2) td ul:last-child,[class=wrapper] .two-col .column:last-child table:nth-last-child(2) td ul:last-child,[class=wrapper] .three-col .column:last-child table:nth-last-child(2) td ul:last-child,[class=wrapper] .one-col-feature .column:last-child table:nth-last-child(2) td ul:last-child {
-          margin-bottom:24px!important
+          margin-bottom:24px !important
         }
 
         [class=wrapper] .address,[class=wrapper] .subscription {
           display:block;
           float:left;
-          width:318px!important;
-          text-align:center!important
+          width:318px !important;
+          text-align:center !important
         }
 
         [class=wrapper] .address {
-          padding-bottom:0!important
+          padding-bottom:0 !important
         }
 
         [class=wrapper] .subscription {
-          padding-top:0!important
+          padding-top:0 !important
         }
 
         [class=wrapper] h1 {
-          font-size:36px!important;
-          line-height:42px!important;
-          margin-bottom:18px!important
+          font-size:36px !important;
+          line-height:42px !important;
+          margin-bottom:18px !important
         }
 
         [class=wrapper] h2 {
-          font-size:26px!important;
-          line-height:32px!important;
-          margin-bottom:20px!important
+          font-size:26px !important;
+          line-height:32px !important;
+          margin-bottom:20px !important
         }
 
         [class=wrapper] h3 {
-          font-size:18px!important;
-          line-height:22px!important;
-          margin-bottom:16px!important
+          font-size:18px !important;
+          line-height:22px !important;
+          margin-bottom:16px !important
         }
 
         [class=wrapper] p,[class=wrapper] ol,[class=wrapper] ul {
-          font-size:16px!important;
-          line-height:24px!important;
-          margin-bottom:24px!important
+          font-size:16px !important;
+          line-height:24px !important;
+          margin-bottom:24px !important
         }
 
         [class=wrapper] ol,[class=wrapper] ul {
-          margin-left:18px!important
+          margin-left:18px !important
         }
 
         [class=wrapper] li {
-          padding-left:2px!important
+          padding-left:2px !important
         }
 
         [class=wrapper] blockquote {
-          padding-left:16px!important
+          padding-left:16px !important
         }
 
         [class=wrapper] .two-col .column:nth-child(n + 3) {
@@ -967,8 +967,8 @@
         }
 
         [class=wrapper] .column-bottom {
-          font-size:8px!important;
-          line-height:8px!important
+          font-size:8px !important;
+          line-height:8px !important
         }
 
         [class=wrapper] .first .column-bottom,[class=wrapper] .three-col .second .column-bottom {
@@ -980,43 +980,43 @@
         }
 
         [class=wrapper] .image-frame {
-          padding:4px!important
+          padding:4px !important
         }
 
         [class=wrapper] .header .logo {
-          padding-left:10px!important;
-          padding-right:10px!important
+          padding-left:10px !important;
+          padding-right:10px !important
         }
 
         [class=wrapper] .header .logo div {
-          font-size:26px!important;
-          line-height:32px!important
+          font-size:26px !important;
+          line-height:32px !important
         }
 
         [class=wrapper] .header .logo div img {
-          display:inline-block!important;
-          max-width:280px!important;
-          height:auto!important
+          display:inline-block !important;
+          max-width:280px !important;
+          height:auto !important
         }
 
         [class=wrapper] table.border,[class=wrapper] .header,[class=wrapper] .webversion,[class=wrapper] .footer {
-          width:320px!important
+          width:320px !important
         }
 
         [class=wrapper] .preheader .webversion,[class=wrapper] .header .logo a {
-          text-align:center!important
+          text-align:center !important
         }
 
         [class=wrapper] .preheader table,[class=wrapper] .border td {
-          width:318px!important
+          width:318px !important
         }
 
         [class=wrapper] .border td.border {
-          width:1px!important
+          width:1px !important
         }
 
         [class=wrapper] .image .border td {
-          width:auto!important
+          width:auto !important
         }
 
         [class=wrapper] .title {
@@ -1024,81 +1024,81 @@
         }
 
         [class=wrapper] .footer .padded {
-          text-align:center!important
+          text-align:center !important
         }
 
         [class=wrapper] .footer .subscription .padded {
-          padding-top:20px!important
+          padding-top:20px !important
         }
 
         [class=wrapper] .footer .social-link {
-          display:block!important
+          display:block !important
         }
 
         [class=wrapper] .footer .social-link table {
-          margin:0 auto 10px!important
+          margin:0 auto 10px !important
         }
 
         [class=wrapper] .footer .divider {
-          display:none!important
+          display:none !important
         }
 
         [class=wrapper] .one-col-feature .btn {
-          margin-bottom:28px!important
+          margin-bottom:28px !important
         }
 
         [class=wrapper] .one-col-feature .image {
-          margin-bottom:28px!important
+          margin-bottom:28px !important
         }
 
         [class=wrapper] .one-col-feature .divider .inner {
-          padding-bottom:28px!important
+          padding-bottom:28px !important
         }
 
         [class=wrapper] .one-col-feature h1 {
-          font-size:42px!important;
-          line-height:48px!important;
-          margin-bottom:20px!important
+          font-size:42px !important;
+          line-height:48px !important;
+          margin-bottom:20px !important
         }
 
         [class=wrapper] .one-col-feature h2 {
-          font-size:32px!important;
-          line-height:36px!important;
-          margin-bottom:18px!important
+          font-size:32px !important;
+          line-height:36px !important;
+          margin-bottom:18px !important
         }
 
         [class=wrapper] .one-col-feature h3 {
-          font-size:26px!important;
-          line-height:32px!important;
-          margin-bottom:20px!important
+          font-size:26px !important;
+          line-height:32px !important;
+          margin-bottom:20px !important
         }
 
         [class=wrapper] .one-col-feature p,[class=wrapper] .one-col-feature ol,[class=wrapper] .one-col-feature ul {
-          font-size:20px!important;
-          line-height:28px!important;
-          margin-bottom:28px!important
+          font-size:20px !important;
+          line-height:28px !important;
+          margin-bottom:28px !important
         }
 
         [class=wrapper] .one-col-feature blockquote {
-          font-size:18px!important;
-          line-height:26px!important;
-          margin-bottom:28px!important;
-          padding-bottom:26px!important;
-          padding-left:0!important;
-          padding-top:26px!important
+          font-size:18px !important;
+          line-height:26px !important;
+          margin-bottom:28px !important;
+          padding-bottom:26px !important;
+          padding-left:0 !important;
+          padding-top:26px !important
         }
 
         [class=wrapper] .one-col-feature blockquote p,[class=wrapper] .one-col-feature blockquote ol,[class=wrapper] .one-col-feature blockquote ul {
-          font-size:26px!important;
-          line-height:32px!important
+          font-size:26px !important;
+          line-height:32px !important
         }
 
         [class=wrapper] .one-col-feature blockquote p:last-child,[class=wrapper] .one-col-feature blockquote ol:last-child,[class=wrapper] .one-col-feature blockquote ul:last-child {
-          margin-bottom:0!important
+          margin-bottom:0 !important
         }
 
         [class=wrapper] .one-col-feature .column table:last-of-type h1:last-child,[class=wrapper] .one-col-feature .column table:last-of-type h2:last-child,[class=wrapper] .one-col-feature .column table:last-of-type h3:last-child {
-          margin-bottom:28px!important
+          margin-bottom:28px !important
         }
       }
 
@@ -1108,14 +1108,14 @@
         }
 
         [class=wrapper] table.border,[class=wrapper] .header,[class=wrapper] .webversion,[class=wrapper] .footer {
-          width:318px!important
+          width:318px !important
         }
       }
     </style>
     <!--[if gte mso 9]>
       <style>
         .column-top {
-          mso-line-height-rule: exactly !important;
+          mso-line-height-rule: exactly  !important;
         }
       </style>
     <![endif]-->
@@ -1157,7 +1157,7 @@
 
       @media only screen and (max-width: 620px) {
         h1 {
-          line-height:44px!important
+          line-height:44px !important
         }
       }
 
@@ -1193,7 +1193,7 @@
 
       @media only screen and (max-width: 620px) {
         h2 {
-          line-height:32px!important
+          line-height:32px !important
         }
       }
 
@@ -1229,7 +1229,7 @@
 
       @media only screen and (max-width: 620px) {
         h3 {
-          line-height:26px!important
+          line-height:26px !important
         }
       }
 
@@ -1272,8 +1272,8 @@
 
       @media only screen and (max-width: 620px) {
         p,ol,ul {
-          line-height:24px!important;
-          margin-bottom:24px!important
+          line-height:24px !important;
+          margin-bottom:24px !important
         }
       }
 
@@ -1290,7 +1290,7 @@
       }
 
       .wrapper a:hover {
-        color:#a00a23!important
+        color:#a00a23 !important
       }
 
       .wrapper .logo div {
@@ -1303,7 +1303,7 @@
 
       @media only screen and (min-width: 0) {
         .wrapper .logo div {
-          font-family:Avenir,sans-serif!important
+          font-family:Avenir,sans-serif !important
         }
       }
 
@@ -1312,7 +1312,7 @@
       }
 
       .wrapper .logo div a:hover {
-        color:#41637e!important
+        color:#41637e !important
       }
 
       .wrapper .one-col-feature p a,.wrapper .one-col-feature ol a,.wrapper .one-col-feature ul a {
@@ -1320,8 +1320,8 @@
       }
 
       .wrapper .one-col-feature p a:hover,.wrapper .one-col-feature ol a:hover,.wrapper .one-col-feature ul a:hover {
-        color:#a00a23!important;
-        border-bottom:1px solid #a00a23!important
+        color:#a00a23 !important;
+        border-bottom:1px solid #a00a23 !important
       }
 
       .btn a {
@@ -1340,7 +1340,7 @@
       }
 
       .wrapper .btn a:hover {
-        color:#fff!important
+        color:#fff !important
       }
 
       .preheader .title,.preheader .webversion,.footer .padded {
@@ -1356,7 +1356,7 @@
       }
 
       .preheader .title a:hover,.preheader .webversion a:hover,.footer .padded a:hover {
-        color:#000!important
+        color:#000 !important
       }
 
       .footer .social .divider {
@@ -1382,7 +1382,7 @@
       }
 
       .footer .social .social-text:hover,.footer .social a:hover {
-        color:#000!important
+        color:#000 !important
       }
 
       .image .border {
@@ -1790,7 +1790,7 @@
                             <?php if(get_field('rsvp_button_text')): ?>
   <!-- BUTTON -->
                                 <div class="btn" style="margin-bottom: 24px;text-align: center">
-                                  <![if !mso]><a href="<?php the_field('rsvp_url'); ?>" style="border-radius: 3px;display: inline-block;font-size: 14px;font-weight: 700;line-height: 24px;padding: 13px 35px 12px 35px;text-align: center;text-decoration: none !important;transition: opacity 0.2s ease-in;color: #fff;font-family: sans-serif;background-color: #d00d2d"><?php echo es_replace(get_field('rsvp_button_text'), 'button'); ?></a><![endif]> <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="<?php the_field('rsvp_url'); ?>" style="width:168px" arcsize="7%" fillcolor="#D00D2D" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:sans-serif;font-weight:700;mso-line-height-rule:exactly;mso-text-raise:4px"><?php echo es_replace(get_field('rsvp_button_text'), 'button'); ?></center></v:textbox></v:roundrect><![endif]-->
+                                  <![if !mso]><a href="<?php the_field('rsvp_url'); ?>" style="border-radius: 3px;display: inline-block;font-size: 14px;font-weight: 700;line-height: 24px;padding: 13px 35px 12px 35px;text-align: center;text-decoration: none  !important;transition: opacity 0.2s ease-in;color: #fff;font-family: sans-serif;background-color: #d00d2d"><?php echo es_replace(get_field('rsvp_button_text'), 'button'); ?></a><![endif]> <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="<?php the_field('rsvp_url'); ?>" style="width:168px" arcsize="7%" fillcolor="#D00D2D" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:sans-serif;font-weight:700;mso-line-height-rule:exactly;mso-text-raise:4px"><?php echo es_replace(get_field('rsvp_button_text'), 'button'); ?></center></v:textbox></v:roundrect><![endif]-->
                                 </div>
   <!-- END BUTTON -->
                               <?php endif; ?>
@@ -1866,7 +1866,7 @@
                             <td style="padding: 0;vertical-align: top">
                               <a href="<?php the_field('department_or_college_url'); ?>" target="_blank"><img height="26" src="http://www.csun.edu/ua/email/20150831_email-assets_v1/social-images/dub-dub-dub.png" alt="Website icon" style="border: 0;-ms-interpolation-mode: bicubic;display: block" width="26" /></a>
                             </td>
-                            <td class="social-text" style="padding: 0;vertical-align: middle !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
+                            <td class="social-text" style="padding: 0;vertical-align: middle  !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
                               <a href="<?php the_field('department_or_college_url'); ?>" style="color: #D00D2D" target="_blank">&nbsp;&nbsp;CSUN.EDU</a>
                             </td>
                           </tr>
@@ -1888,7 +1888,7 @@
                               <td style="padding: 0;vertical-align: top">
                                 <a href="<?php the_field('facebook_url'); ?>" target="_blank"><img height="26" src="http://www.csun.edu/ua/email/20150831_email-assets_v1/social-images/facebook.png" alt="Facebook icon" style="border: 0;-ms-interpolation-mode: bicubic;display: block" width="26" /></a>
                               </td>
-                              <td class="social-text" style="padding: 0;vertical-align: middle !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
+                              <td class="social-text" style="padding: 0;vertical-align: middle  !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
                                 <a href="<?php the_field('facebook_url'); ?>" style="color: #D00D2D" target="_blank">Facebook </a>
                               </td>
                             </tr>
@@ -1911,7 +1911,7 @@
                               <td style="padding: 0;vertical-align: top">
                                 <a href="<?php the_field('twitter_url'); ?>" target="_blank"><img height="26" src="http://www.csun.edu/ua/email/20150831_email-assets_v1/social-images/twitter.png" alt="Twitter icon" style="border: 0;-ms-interpolation-mode: bicubic;display: block" width="26" /></a>
                               </td>
-                              <td class="social-text" style="padding: 0;vertical-align: middle !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
+                              <td class="social-text" style="padding: 0;vertical-align: middle  !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
                                 <a href="<?php the_field('twitter_url'); ?>" style="color: #D00D2D" target="_blank">&nbsp;&nbsp;Twitter</a>
                               </td>
                             </tr>
@@ -1934,7 +1934,7 @@
                               <td style="padding: 0;vertical-align: top">
                                 <a href="<?php the_field('instagram_url'); ?>" target="_blank"><img height="26" src="http://www.csun.edu/ua/email/20150831_email-assets_v1/social-images/instagram.png" alt="Instagram" style="border: 0;-ms-interpolation-mode: bicubic;display: block" width="26" /></a>
                               </td>
-                              <td class="social-text" style="padding: 0;vertical-align: middle !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
+                              <td class="social-text" style="padding: 0;vertical-align: middle  !important;height: 21px;font-size: 10px;font-weight: bold;text-decoration: none;text-transform: uppercase;color: #000;letter-spacing: 0.05em;font-family: helvetica, arial, sans-serif">
                                 <a href="<?php the_field('instagram_url'); ?>" style="color: #D00D2D" target="_blank">&nbsp;&nbsp;Instagram</a>
                               </td>
                             </tr>
